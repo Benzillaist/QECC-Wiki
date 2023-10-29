@@ -11,7 +11,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'QECC-Wiki',
   tagline: 'The tagline of my site',
   favicon: 'img/logo.png',
 
